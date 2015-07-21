@@ -1,0 +1,25 @@
+.copyme-box {
+	padding-top: 10px;
+}
+
+.copyme-box .button {
+	margin-top: 5px;
+}
+
+.copyme-copying {
+	color: #fff;
+	background-color: blue;
+	padding: 5px 10px;
+}
+
+.copyme-ok {
+	color: #fff;
+	background-color: green;
+	padding: 5px 10px;
+}
+
+.copyme-ko {
+	color: #fff;
+	background-color: red;
+	padding: 5px 10px;
+}
